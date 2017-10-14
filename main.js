@@ -18,4 +18,18 @@ for (let i = 0; i < customers.results.length; i++) {
   let ssn = customers.results[i].id.value;
   let pic = customers.results[i].picture.large;
 
+  let subcontainer = `
+      <img src="${pic}" alt="">
+      <div class="text" id="text1">
+      <p class="fullName" >${fullName}</p>
+      <p class="email" >${email}</p>
+      <p class="address" >${street}</p>
+      <p class="cityStZip" >${cityStZip}</p>
+      <p class="phone" >${phone}</p>
+      <p class="ssn" >${ssn}</p>
+    </div>
+  `
+  
+div.innerHTML = subcontainer;
+
 }
