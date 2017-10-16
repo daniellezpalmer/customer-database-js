@@ -20,4 +20,4 @@ Use emplate literals to quickly generate a page of customers.
 http://customerdatabase.surge.sh
 
 ## Screenshots
-<img width="1126" alt="screen shot 2017-10-14 at 3 11 04 pm" src="https://user-images.githubusercontent.com/30088565/31579003-16ca812a-b0f2-11e7-922d-7b1fd3aa16ce.png">
+<img width="1076" alt="screen shot 2017-10-16 at 1 14 50 pm" src="https://user-images.githubusercontent.com/30088565/31627795-24602d52-b274-11e7-9cb0-b92dae0982fc.png">
